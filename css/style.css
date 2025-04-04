@@ -191,9 +191,9 @@ a:hover {
 	align-items:center;
 	justify-content:center;
 	width:18.75rem;             	/* 300px */
- 	min-height:3rem;                /* 48px */
+ 	height:3rem;                    /* 48px */
   	padding:0.75rem 1rem;         	/* 12px ; 16px */
-  	font-size:1.125rem;           	/* 18px */
+  	font-size:1rem;           
   	font-weight:700;
 	text-decoration:none;
 	white-space:normal;
@@ -212,16 +212,23 @@ a:hover {
 /* Icons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .icon {
-	width:1.25rem;
-	height:1.25rem;
+	width:auto;
+	height:2rem;
 	margin-right:0.5rem;
 	flex-shrink:0;
+}
+
+
+.icon-chaturbate {
+    max-height:2rem;
+	margin-right:0.5rem;
 }
 
 /* Avatar
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .avatar {
-	width: 8rem;             /* 128px */
+    font-size: 6rem;
+	width: 16rem;             /* 128px */
 	height: 8rem;
 	object-fit: cover;
 	background-position: center;

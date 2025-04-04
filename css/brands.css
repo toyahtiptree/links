@@ -142,6 +142,13 @@
 	background-image:linear-gradient(to bottom,#00d64b,#00c244);
 }
 
+/* Chaturbate #17202A,#0c6a93,#f5731e */
+.button-chaturbate {
+	--button-text:#FFFFFF;
+	/* --background-image:linear-gradient(to bottom,#0c6a93,#f5731e);*/
+	background-image:linear-gradient(-135deg,#f5731e,#0c6a93,#17202A);
+}
+
 /* dev.to */
 .button-dev-to {
 	--button-text:#000000;
@@ -268,10 +275,10 @@
 	--button-border:1px solid #212121;
 }
 
-/* Instagram */
+/* Instagram #feb409,#fe1463,#9f0fdc   */
 .button-instagram {
 	--button-text:#ffffff;
-	background-image:linear-gradient(-135deg,#1400c8,#b900b4,#f50000);
+ 	background-image:linear-gradient(-135deg,#feb409,#fe1463,#9f0fdc); 
 }
 
 /* Kick */
@@ -380,10 +387,11 @@
 	--button-border:1px solid #ffffff;
 }
 
-/* OnlyFans */
+/* OnlyFans #f0f9fe,#bfebfb,#03aaed */
 .button-onlyfans {
 	--button-text:#ffffff;
 	--button-background:#00AEEF;
+ 	background-image:linear-gradient(-135deg,#bfebfb,#03aaed,#f0f9fe); 
 }
 
 /* Patreon */
@@ -526,6 +534,12 @@
 .button-threema {
 	--button-text:#000000;
 	--button-background:#3fe669;
+}
+
+/* Throne */
+.button-throne {
+	--button-text:#ffffff;
+	background-image:linear-gradient(-135deg,#1400c8,#b900b4,#f50000);
 }
 
 /* TikTok */
