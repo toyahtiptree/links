@@ -95,6 +95,9 @@
   font-weight: 400;
   font-style: normal;
   font-size:64px;
+  background: -webkit-linear-gradient(0deg,#ff00aa 20%,#aaff00 50%,#00aaff 75%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 /* Base Typography Settings
