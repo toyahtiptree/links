@@ -77,7 +77,7 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
   h1 {
 	margin:0 0 0.5rem 0;
-	font-size:4rem;         		
+	font-size:3rem;         		/* 48px */        		
     font-weight:800;
 	line-height:1;
 	letter-spacing:0;
@@ -94,6 +94,7 @@
   font-family: "Pacifico", cursive;
   font-weight: 400;
   font-style: normal;
+  font-size:var(--scale-6);
 }
 
 /* Base Typography Settings
