@@ -98,6 +98,7 @@
   background: -webkit-linear-gradient(0deg,#ff00aa 20%,#aaff00 50%,#00aaff 75%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  line-height: 1.75;
 }
 
 /* Base Typography Settings
