@@ -89,6 +89,13 @@
 	margin:0 0 2rem 0;
 }
 
+/* Font for Toyah Tiptree logo */
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
 /* Base Typography Settings
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* Base size - 16px browser default */
