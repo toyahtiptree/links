@@ -101,6 +101,11 @@
   line-height: 1.75;
 }
 
+.toyah-description {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
 /* Base Typography Settings
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* Base size - 16px browser default */
